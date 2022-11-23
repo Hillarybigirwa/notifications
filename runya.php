@@ -39,20 +39,28 @@ $runy =[
 "District"=>"Disturikiti",
 "Located"=>"Erikushangwa",
 "Please wait"=>"Rindaho kakye",
-""=>"",
-""=>"",
-""=>"",
-""=>"",
-""=>"",
-""=>"",
-""=>"",
-""=>"",
-""=>"",
-
-
-
-
-
+"Welcome"=>"Twakwakira",
+"Hi"=>"Nakuramutsya",
+"Location"=>"Neshangwa",
+"server"=>"eibiko",
+"notifications"=>"obukule",
+"Terms"=>"Engyendererwaho",
+"Conditions"=>"Oburomborombo",
+"Crops"=>"Ebihingwa",
+"Animals"=>"Enyamishwa",
+"animal"=>"ekinyamishwa",
+  "goat"=>"embuzi",
+  "gnuts"=>"ebinyoobwa",
+  "rice"=>"omuceeri",
+"beans"=>"ebihimba",
+"maize"=>"ebicoori",
+  "millet"=>"oburo",
+  "sorghum"=>"omugusha",
+  "sweet potatoes"=>"ebitakuri",
+  "irish potatoes"=>"emondi",
+  "bananas"=>"ebitookye",
+  "banana plantation"=>"orutookye",
+  "garden"=>"omusiri",
 ]
 
 ?>
